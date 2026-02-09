@@ -1496,35 +1496,35 @@ let showingDetails=false;let lastData=null;function toggleHelpBox(){showingDetai
           <h1>
             <span>This page isn?t working</span>
           </h1>
-          <!--?lit$976349836$-->
+          <!--?lit$544667419$-->
             <p>If the problem continues, contact the site owner.</p>
           
 
-          <!--?lit$976349836$-->
+          <!--?lit$544667419$-->
 
-          <div class="error-code"><!--?lit$976349836$-->HTTP ERROR 526</div>
+          <div class="error-code"><!--?lit$544667419$-->HTTP ERROR 522</div>
 
-          <!--?lit$976349836$-->
+          <!--?lit$544667419$-->
         </div>
       </div>
       <div id="buttons" class="nav-wrapper suggested-left">
         <div id="control-buttons">
-          <!--?lit$976349836$-->
+          <!--?lit$544667419$-->
             <button id="reload-button" class="blue-button text-button" data-url="https://routinehub.co/api/v1/shortcuts/11981/versions/latest">
-              <!--?lit$976349836$-->Reload
+              <!--?lit$544667419$-->Reload
             </button>
           
-          <!--?lit$976349836$-->
+          <!--?lit$544667419$-->
         </div>
-        <!--?lit$976349836$-->
+        <!--?lit$544667419$-->
       </div>
-      <!--?lit$976349836$-->
+      <!--?lit$544667419$-->
         <div id="details">
-          <!--?lit$976349836$-->
+          <!--?lit$544667419$-->
         </div>
       
     </div>
-    <!--?lit$976349836$-->
+    <!--?lit$544667419$-->
       <div id="sub-frame-error">
         <!-- Show details when hovering over the icon, in case the details are
              hidden because they're too large. -->
@@ -1544,5 +1544,5 @@ let showingDetails=false;let lastData=null;function toggleHelpBox(){showingDetai
   </div>
 
 
-<script>var loadTimeDataRaw = {"details":"Details","errorCode":"HTTP ERROR 526","fontfamily":"'Segoe UI', Tahoma, sans-serif","fontfamilyMd":"'Segoe UI', Tahoma, sans-serif","fontsize":"75%","heading":{"msg":"This page isn?t working"},"hideDetails":"Hide details","iconClass":"icon-generic","language":"en","reloadButton":{"msg":"Reload","reloadUrl":"https://routinehub.co/api/v1/shortcuts/11981/versions/latest"},"suggestionsDetails":[],"suggestionsSummaryList":[],"summary":{"msg":"If the problem continues, contact the site owner."},"textdirection":"ltr","title":"routinehub.co"};</script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"32a44ac1c80b46a8802862fd72451901","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+<script>var loadTimeDataRaw = {"details":"Details","errorCode":"HTTP ERROR 522","fontfamily":"'Segoe UI', Tahoma, sans-serif","fontfamilyMd":"'Segoe UI', Tahoma, sans-serif","fontsize":"75%","heading":{"msg":"This page isn?t working"},"hideDetails":"Hide details","iconClass":"icon-generic","language":"en","reloadButton":{"msg":"Reload","reloadUrl":"https://routinehub.co/api/v1/shortcuts/11981/versions/latest"},"suggestionsDetails":[],"suggestionsSummaryList":[],"summary":{"msg":"If the problem continues, contact the site owner."},"textdirection":"ltr","title":"routinehub.co"};</script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"32a44ac1c80b46a8802862fd72451901","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
 </body></html>
