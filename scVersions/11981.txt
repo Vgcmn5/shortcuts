@@ -1496,35 +1496,35 @@ let showingDetails=false;let lastData=null;function toggleHelpBox(){showingDetai
           <h1>
             <span>This page isn?t working</span>
           </h1>
-          <!--?lit$231447118$-->
+          <!--?lit$881366218$-->
             <p>If the problem continues, contact the site owner.</p>
           
 
-          <!--?lit$231447118$-->
+          <!--?lit$881366218$-->
 
-          <div class="error-code"><!--?lit$231447118$-->HTTP ERROR 522</div>
+          <div class="error-code"><!--?lit$881366218$-->HTTP ERROR 522</div>
 
-          <!--?lit$231447118$-->
+          <!--?lit$881366218$-->
         </div>
       </div>
       <div id="buttons" class="nav-wrapper suggested-left">
         <div id="control-buttons">
-          <!--?lit$231447118$-->
+          <!--?lit$881366218$-->
             <button id="reload-button" class="blue-button text-button" data-url="https://routinehub.co/api/v1/shortcuts/11981/versions/latest">
-              <!--?lit$231447118$-->Reload
+              <!--?lit$881366218$-->Reload
             </button>
           
-          <!--?lit$231447118$-->
+          <!--?lit$881366218$-->
         </div>
-        <!--?lit$231447118$-->
+        <!--?lit$881366218$-->
       </div>
-      <!--?lit$231447118$-->
+      <!--?lit$881366218$-->
         <div id="details">
-          <!--?lit$231447118$-->
+          <!--?lit$881366218$-->
         </div>
       
     </div>
-    <!--?lit$231447118$-->
+    <!--?lit$881366218$-->
       <div id="sub-frame-error">
         <!-- Show details when hovering over the icon, in case the details are
              hidden because they're too large. -->
